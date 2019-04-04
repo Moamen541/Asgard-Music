@@ -1,6 +1,6 @@
 owner=348554915876175902
-prefix=!
-game=..
+prefix=a
+game=Playing Rust With GABE
 stayinchannel=true
 songinstatus=true
-token=
+token=NTYzMzA3OTA4MTMwMDEzMTg0.XKXccg.szqmHWow6ij8chgIZcKQhneMdnc
